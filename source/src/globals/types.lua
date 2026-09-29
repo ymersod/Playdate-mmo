@@ -1,0 +1,2 @@
+-- Types.lua
+---@alias ScreenState ""

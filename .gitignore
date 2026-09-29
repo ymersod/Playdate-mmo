@@ -1,0 +1,36 @@
+### Windows
+# Windows thumbnail cache files
+Thumbs.db
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+### VS Code
+# VSCode settings (keep shared configuration)
+.vscode/*
+# !playdate-luacats
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
+# !.vscode/extensions.json
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+# Build files
+*.pdx
+/.sentry-native/
+
+# Config
+*.luarc.json
+
+/builds
